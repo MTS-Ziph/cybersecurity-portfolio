@@ -53,5 +53,6 @@ Note: NCL challenge write-ups, solution steps, flags, and answer details are not
 cybersecurity-portfolio/
 ├── CTF/
 │   └── NCL-Spring-2026-Score-Cards/
-│       └── NCL Spring 2026 Individual Game.pdf
+|       └── Individual Game Scouting Report.pdf
+│       └── Team Game Scouting Report.pdf
 └── README.md
